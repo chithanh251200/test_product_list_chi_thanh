@@ -1,0 +1,17 @@
+/* phần logo  */
+.justify-content-between {
+    justify-content: space-between;
+}
+
+
+/* dùng theo chìu ngang  */
+.display-flex {
+    display: flex;
+}
+
+
+.display-block {
+    display: block;
+}
+
+
